@@ -24,7 +24,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 public class MathUtilityAdvancedTest {
     public static Object [][] initTestData(){
-        Object testData[][]={{0,1},{1,1},{2,2},{4,24},{5,120}}; 
+        Object testData[][]={{0,1},{1,1},{2,2},{4,24},{5,1200}}; 
         
         return testData;
     }
